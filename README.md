@@ -1,3 +1,3 @@
 # OmniFood
-#Food Delivery WebApp
-#Fully Responsive
+.Food Delivery WebApp
+.Fully Responsive
